@@ -1,1 +1,1 @@
-# CNN-Convolutional-NN-Visuals-explanation-of-the-number-of-parameters-output-of-keras-class-
+# CNN-Convolutional NN: Visuals & Parameters explanation(output-of-keras-class)
